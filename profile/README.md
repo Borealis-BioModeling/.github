@@ -25,6 +25,8 @@ Check out my site, [blakeaw.github.io](https://blakeaw.github.io/), to learn mor
 
 ## Supporting
 
-I'm developing and maintaining these projects independently without external funding. If you find any of these tools or related work of value, please consider contributing financially.
+I'm developing and maintaining these projects independently without external funding. If you find any of these tools or related work of value, please consider becoming a sponsor and contributing financially.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J4ZUCVU)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J4ZUCVU) [![LearnMore](https://img.shields.io/badge/Learn%20More%20About-Sponsoring-lightgrey?style=for-the-badge)](SPONSORING.md)
+
+
